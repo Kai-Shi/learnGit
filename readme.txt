@@ -5,3 +5,4 @@ add1
 add2
 this is from NEW branch
 conflict from local branch
+conflict from remote branch
