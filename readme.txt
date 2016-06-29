@@ -4,3 +4,4 @@ som more new changes
 add1
 add2
 this is from NEW branch
+conflict from remote branch
